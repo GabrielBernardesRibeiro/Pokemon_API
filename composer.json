@@ -1,0 +1,11 @@
+{
+	"autoload":{
+		"psr-4":{
+			"Pokemon_project\\": "Pokemon_project/"
+		},
+		"files": [
+			"database_connection.php"
+		]
+	},
+	"require":{}
+}
